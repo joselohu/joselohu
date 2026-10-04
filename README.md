@@ -23,4 +23,4 @@ ISTQB Certified Tester, Foundation Level and Agile Tester.
 
 ## Contact
 
-[Portfolio](https://joselohu.github.io) · [LinkedIn](https://www.linkedin.com/in/jose-david-lopez-huertas-95b742158) · [YouTube](https://www.youtube.com/@JoseLopez-zf9io)
+[Portfolio](https://joselohu.github.io) · [LinkedIn](https://www.linkedin.com/in/jose-david-lopez-huertas-95b742158)
